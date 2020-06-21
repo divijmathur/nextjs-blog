@@ -5,6 +5,14 @@ date: '2020-06-12'
 
 Quotes
 * the three basic realities of the universe are that everything is constantly changing, nothing has any enduring essence, and nothing is completely satisfying
+* Peace is happiness at rest; happiness is peace in motion
+* try to learn something about everything and everything about something
+*  A journey of a thousand miles begins with a single step. 
+* It is ever the lot of children to accept their circumstances as universal and peculiarities as general
+* kindness, piety and respect for other human creatures - these are the great desiderata of all who preach virtuous action ,and it matters not whether those who preach them heed their own advice
+* rule by passion, for unless it obeys you it rules you
+* find what you love and let it kill you
+* How doth all that seeks to rise burn itself to nothing
 * Do one thing everyday that scares you
 * simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.
 * Your beliefs become your thoughts. Your thoughts become your words. Your words become your actions. Your actions become the habits. Your habits become your values. And your values become your destiny.
@@ -53,4 +61,5 @@ Quotes
 * Discouragement and failure are two of the surest stepping stones to success
 * No thing great is created suddenly, any more than a bunch of grapes or a fig. If you tell me that you desire a fig, I answer you that there must be time. Let it first blossom, then bear fruit, then ripen.
 * Put on your oxygen mask before you help others
+* If I am not for myself, who will be? And if I am not for others who am I?
 
